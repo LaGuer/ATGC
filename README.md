@@ -4,7 +4,7 @@ DNA nucleotides Mass Ratio using natural units (mol,GeV,m_n,m_p,m_e...)
 
 We’re checking two equations:  (1) C + G = A + T + 1  (2) A + T = C + G – 1
 
-Other interesting relation infers $G + C - (A + T) = N_{14} - C_{12} - H = 1$  
+Other interesting relation infers $G + C - (A + T) = N_{14} - C_{12} - H_1 = 1$  
 
 Assumptions and Conclusions
 ACGT (DNA):
